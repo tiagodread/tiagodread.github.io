@@ -82,11 +82,13 @@ params:
       - 💬 Ask me about Agile Testing (Web/Mobile/API), Agile Methodologies, Cypress, Selenium, Appium, Maestro, Robotframework, WebdriverIO, Applitools, Browserstack, 
       
   socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/tiagogs/"
     - name: twitter
       url: "https://twitter.com/tiagogoes_"
     - name: email
       url: "mailto:tiago.goes2009@gmail.com"
-    - name: linkedin
+    - name: github
       url: "https://github.com/tiagodread"
 
   analytics:
