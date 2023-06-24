@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://tiagogoes.github.io/sitemap.xml
