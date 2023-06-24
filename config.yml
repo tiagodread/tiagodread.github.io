@@ -1,4 +1,4 @@
-baseURL: "https://tiagogoes.github.io/"
+baseURL: "https://tiagodread.github.io/"
 title: Quality Engineering Logbook
 paginate: 5
 theme: PaperMod
@@ -137,6 +137,7 @@ markup:
     # lineNos: true
     # style: monokai
 
+publishDir: "docs"
 outputs:
     home:
         - HTML
