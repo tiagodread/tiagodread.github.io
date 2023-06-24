@@ -1,1 +1,0 @@
-# Quality Engineering Logbook blog
