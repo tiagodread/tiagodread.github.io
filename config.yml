@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Qual
-  description: "Quality Engineering Logbook"
+  title: Quality Engineering Logbook
+  description: ""
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -74,13 +74,18 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
+    Content: | 
+      I'm Tiago, Quality Engineer @ [Avenue](https://avenue.us/)
+      >
+      - 🌱  Learning about Blockchain, De-Fi, DApps and more! 
+      >
+      - 💬 Ask me about Agile Testing (Web/Mobile/API), Agile Methodologies, Cypress, Selenium, Appium, Maestro, Robotframework, WebdriverIO, Applitools, Browserstack, 
+      
   socialIcons:
     - name: twitter
       url: "https://twitter.com/tiagogoes_"
-    - name: stackoverflow
-      url: "https://www.linkedin.com/in/tiagogs"
+    - name: email
+      url: "mailto:tiago.goes2009@gmail.com"
     - name: linkedin
       url: "https://github.com/tiagodread"
 
@@ -93,6 +98,7 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
+    image: "https://avatars.githubusercontent.com/u/12464858?s=400&u=6676e7e659439de64686c110be5323d9cc55ee04&v=4"
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
