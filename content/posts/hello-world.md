@@ -2,6 +2,8 @@
 title: "Nice to meet you!"
 date: 2023-06-23T22:01:20-03:00
 draft: false
+categories:
+- about-me
 ---
 
 Hey!
