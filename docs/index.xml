@@ -10,25 +10,15 @@
       <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 23 Jun 2023 22:01:20 -0300</lastBuildDate><atom:link href="https://tiagodread.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nice to meet you!</title>
-      <link>https://tiagodread.github.io/posts/hello-world/</link>
-      <pubDate>Fri, 23 Jun 2023 22:01:20 -0300</pubDate>
-      
-      <guid>https://tiagodread.github.io/posts/hello-world/</guid>
-      <description>Hey! I couldn&amp;rsquo;t start posting about agile methodologies, software development, testing and quality in general and related topics from our day to day before introducing myself.
-I&amp;rsquo;m Tiago Góes, or just &amp;ldquo;Góes&amp;rdquo;, Brazilian, Software Quality Engineer since 2018, before that, I worked as Software Requirements Analyst for two years, completed IT technican course (2011-2013) and degree Analisis and software development in 2016. I like practicing sports (I did Taekwondo from 9 to 19), learn new technologies, aaaaand quality engineering.</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://tiagodread.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://tiagodread.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tiagodread.github.io/about/</guid>
-      <description>Hello</description>
+      <description>Hey! I couldn&amp;rsquo;t start posting about agile methodologies, software development, quality in general, testing and related topics from our day to day before introducing myself.
+I&amp;rsquo;m Tiago Góes, or just &amp;ldquo;Góes&amp;rdquo;, Brazilian, Software Quality Engineer since 2018, before that, I worked as Software Requirements Analyst for two years, completed IT technican course (2011-2013) and degree Analisis and software development in 2016. I like practicing sports (I did Taekwondo from 9 to 19), learn new technologies, aaaaand quality engineering.</description>
     </item>
     
     
