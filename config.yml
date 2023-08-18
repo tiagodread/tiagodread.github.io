@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: "G-ERLFKFV0DG"
 
 minify:
   disableXML: true
@@ -79,10 +79,6 @@ params:
   analytics:
     google:
       SiteVerificationTag: "G-ERLFKFV0DG"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     image: "https://avatars.githubusercontent.com/u/12464858?s=400&u=6676e7e659439de64686c110be5323d9cc55ee04&v=4"
