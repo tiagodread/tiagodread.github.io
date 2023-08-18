@@ -15,11 +15,12 @@ minify:
   minifyOutput: true
 
 params:
-  env: production
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Quality Engineering Logbook
   description: ""
   keywords: [Blog, Portfolio, PaperMod]
   author: by Tiago Góes
+  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -55,16 +56,30 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: |
-      I'm Tiago, Software Quality Engineer and this is my personal blog site
+      I'm Tiago, Quality Engineer @ [Avenue](https://avenue.us/)
       >
-      - 🌱  I'm current learning more about Blockchain, De-Fi, DApps and more! 
+      - 🌱  Learning about Blockchain, De-Fi, DApps and more! 
       >
-      - 💬 Ask me about Agile Testing (Web/Mobile/API), Agile Methodologies, Cypress, Selenium, Appium, Maestro, Robotframework, WebdriverIO, Applitools, Browserstack, etc.
-      >
-      You can also find me on:
+      - 💬 Ask me about Agile Testing (Web/Mobile/API), Agile Methodologies, Cypress, Selenium, Appium, Maestro, Robotframework, WebdriverIO, Applitools, Browserstack,
 
   socialIcons:
     - name: linkedin
@@ -105,6 +120,32 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 40
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
 
 pygmentsUseClasses: true
 markup:
@@ -131,33 +172,11 @@ languages:
     disabled: false
     languageCode: pt-br
     languageDirection: ltr
-    languageName: Portuguese
+    languageName: Deutsch
     params:
-      subtitle: Postagens sobre qualidade de software
-    title: Quality Engineering Logbook
-    weight: 2
-    menu:
-      main:
-        - identifier: home
-          name: Inicio
-          url: /
-          weight: 5
-        - identifier: about
-          name: Sobre
-          url: /sobre/
-          weight: 10
-        - identifier: archives
-          name: Arquivos
-          url: /arquivos/
-          weight: 30
-        - identifier: categories
-          name: Categorias
-          url: /categories/
-          weight: 40
-        - identifier: search
-          name: Busca
-          url: /busca/
-          weight: 60
+      subtitle: Referenz, Tutorials und Erklärungen
+    title: Projekt Dokumentation
+    weight: 1
   en:
     contentDir: content/en
     disabled: false
@@ -165,28 +184,6 @@ languages:
     languageDirection: ltr
     languageName: English
     params:
-      subtitle: Posts about software quality
-    title: Quality Engineering Logbook
-    weight: 1
-    menu:
-      main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: 5
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 10
-        - identifier: archives
-          name: Archives
-          url: /archives/
-          weight: 30
-        - identifier: categories
-          name: Categories
-          url: /categories/
-          weight: 40
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 60
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2

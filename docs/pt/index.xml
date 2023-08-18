@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Quality Engineering Logbook</title>
+    <link>https://tiagodread.github.io/pt/</link>
+    <description>Recent content on Quality Engineering Logbook</description>
+    <image>
+      <title>Quality Engineering Logbook</title>
+      <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 18 Jul 2023 18:09:05 -0300</lastBuildDate><atom:link href="https://tiagodread.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre a falácia da diversidade e pluralidade de pensamento no mercado de trabalho</title>
+      <link>https://tiagodread.github.io/pt/posts/on-the-fallacy-of-diversity-and-plurality/</link>
+      <pubDate>Tue, 18 Jul 2023 18:09:05 -0300</pubDate>
+      
+      <guid>https://tiagodread.github.io/pt/posts/on-the-fallacy-of-diversity-and-plurality/</guid>
+      <description>Muito se fala sobre diversidade, pluralismo de pensamento dentro das empresas e na sociedade no geral e não é novidade que isso não é algo “a mais”, e sim, essencial para nós como indivíduos crescermos e evoluirmos como seres humanos.
+Com tanta falácia dentro do mercado de trabalho acerca da importância sobre o tema, venho chamar atenção sobre o processo de entrevistas das empresas no geral, como pensar em diversidade e pluralismo se as portas estão fechadas logo no processo de contratação?</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://tiagodread.github.io/pt/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagodread.github.io/pt/sobre/</guid>
+      <description>Ei! Eu não poderia começar a postar sobre metodologias ágeis, desenvolvimento de software, qualidade em geral, testes e assuntos relacionados ao meu dia a dia antes de me apresentar.
+Sou Tiago Góes, ou apenas &amp;ldquo;Góes&amp;rdquo;, brasileiro, Engenheiro de Qualidade de Software desde 2018, antes disso, trabalhei como Analista de Requisitos de Software por dois anos, conclui o curso técnico de TI (2011-2013) e graduação Análise e desenvolvimento de software em 2016 Gosto de praticar esportes (pratiquei Taekwondo dos 9 aos 19 também bike, crossfit), aprender novas tecnologias, aaaand engenharia de qualidade.</description>
+    </item>
+    
+  </channel>
+</rss>

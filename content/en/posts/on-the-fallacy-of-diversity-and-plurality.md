@@ -2,6 +2,8 @@
 title: "On the fallacy of diversity and plurality of thought in the labor market"
 date: 2023-07-18T18:09:05-03:00
 draft: false
+categories:
+- labor market
 ---
 
 Much is said about diversity and inclusion nowdays; this is not a subject to be considered "a plus" within companies and in society in general, but rather essential for us as individuals to grow as human beings.
