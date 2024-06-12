@@ -3,29 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tiagodread.github.io/en/</loc>
-    <lastmod>2023-07-18T18:09:05-03:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2024-04-26T22:02:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
+                hreflang="pt-br"
                 href="https://tiagodread.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://tiagodread.github.io/en/"
+                />
+  </url><url>
+    <loc>https://tiagodread.github.io/en/posts/</loc>
+    <lastmod>2024-04-26T22:02:01-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://tiagodread.github.io/pt/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://tiagodread.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://tiagodread.github.io/en/posts/quality-engineering/</loc>
+    <lastmod>2024-04-26T22:02:01-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://tiagodread.github.io/pt/posts/quality-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://tiagodread.github.io/en/posts/quality-engineering/"
                 />
   </url><url>
     <loc>https://tiagodread.github.io/en/categories/</loc>
     <lastmod>2023-07-18T18:09:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
+                hreflang="pt-br"
                 href="https://tiagodread.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://tiagodread.github.io/en/categories/"
                 />
   </url><url>
@@ -36,26 +61,13 @@
     <lastmod>2023-07-18T18:09:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
+                hreflang="pt-br"
                 href="https://tiagodread.github.io/pt/posts/on-the-fallacy-of-diversity-and-plurality/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/"
-                />
-  </url><url>
-    <loc>https://tiagodread.github.io/en/posts/</loc>
-    <lastmod>2023-07-18T18:09:05-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tiagodread.github.io/pt/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagodread.github.io/en/posts/"
                 />
   </url><url>
     <loc>https://tiagodread.github.io/en/about/</loc>
@@ -67,12 +79,12 @@
     <loc>https://tiagodread.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
+                hreflang="pt-br"
                 href="https://tiagodread.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://tiagodread.github.io/en/tags/"
                 />
   </url>

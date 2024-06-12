@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Quality Engineering Logbook</title>
     <link>https://tiagodread.github.io/en/posts/</link>
     <description>Recent content in Posts on Quality Engineering Logbook</description>
-    <image>
-      <title>Quality Engineering Logbook</title>
-      <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Jul 2023 18:09:05 -0300</lastBuildDate><atom:link href="https://tiagodread.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Apr 2024 22:02:01 -0300</lastBuildDate>
+    <atom:link href="https://tiagodread.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA? No. Quality Engineer!</title>
+      <link>https://tiagodread.github.io/en/posts/quality-engineering/</link>
+      <pubDate>Fri, 26 Apr 2024 22:02:01 -0300</pubDate>
+      <guid>https://tiagodread.github.io/en/posts/quality-engineering/</guid>
+      <description>Introduction Writing about the role of QA in software development teams is crucial to understanding the evolution of the area and the importance of moving away from the old perception that QA is limited to only “testing software”. This article aims to clarify the differences between the roles of Tester, QA (Quality Assurance) and QE (Quality Engineer) and challenges faced by a QA professional within a development team.&#xA;Differences between Tester, QA and QE Tester is the more traditional and general used term and is more directly associated with performing manual tests.</description>
+    </item>
     <item>
       <title>On the fallacy of diversity and plurality of thought in the labor market</title>
       <link>https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/</link>
       <pubDate>Tue, 18 Jul 2023 18:09:05 -0300</pubDate>
-      
       <guid>https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/</guid>
-      <description>Much is said about diversity and inclusion nowdays; this is not a subject to be considered &amp;ldquo;a plus&amp;rdquo; within companies and in society in general, but rather essential for us as individuals to grow as human beings.
-With all the discussion on the labor market about the importance of the theme, I came to draw attention to the hiring process of companies. So, how can we think of diversity and pluralism if the &amp;ldquo;doors are closed&amp;rdquo; even in the hiring process?</description>
+      <description>Much is said about diversity and inclusion nowdays; this is not a subject to be considered &amp;ldquo;a plus&amp;rdquo; within companies and in society in general, but rather essential for us as individuals to grow as human beings.&#xA;With all the discussion on the labor market about the importance of the theme, I came to draw attention to the hiring process of companies. So, how can we think of diversity and pluralism if the &amp;ldquo;doors are closed&amp;rdquo; even in the hiring process?</description>
     </item>
-    
   </channel>
 </rss>
