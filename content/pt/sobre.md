@@ -2,7 +2,6 @@
 title: "Sobre"
 ---
 
-![targets](/img/me.jpeg)
 Ei!
 Eu não poderia começar a postar sobre metodologias ágeis, desenvolvimento de software, qualidade em geral, testes e assuntos relacionados ao meu dia a dia antes de me apresentar.
 
