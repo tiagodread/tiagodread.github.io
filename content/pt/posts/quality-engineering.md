@@ -2,6 +2,8 @@
 title: "QA? Não. Engenheiros de Qualidade!"
 date: 2024-04-26T22:02:01-03:00
 draft: false
+categories:
+- Quality Engineering
 ---
 
 ## Introdução

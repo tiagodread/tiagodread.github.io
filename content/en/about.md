@@ -2,7 +2,6 @@
 title: "About"
 ---
 
-![targets](/img/me.jpeg)
 Hey!
 I couldn't start posting about agile methodologies, software development, quality in general, testing and related topics from my day to day before introducing myself.
 
