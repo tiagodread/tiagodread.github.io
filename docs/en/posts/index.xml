@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Apr 2024 22:02:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:44:36 -0300</lastBuildDate>
     <atom:link href="https://tiagodread.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Shape Up Methodology by Basecamp</title>
+      <link>https://tiagodread.github.io/en/posts/the-shape-up-methodology-by-basecamp/</link>
+      <pubDate>Mon, 09 Dec 2024 12:44:36 -0300</pubDate>
+      <guid>https://tiagodread.github.io/en/posts/the-shape-up-methodology-by-basecamp/</guid>
+      <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This post is part of a serie of posts about the Basecamp&amp;rsquo;s Shape Up methodology. In this post, we will talk about what Shape Up is and present an overview of the process.
+In the next post, we will focus on how each step works in practice. If you are a developer, product manager, or part of a technology team, this series is for you!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In general, &lt;em&gt;Shape Up&lt;/em&gt; is a framework created by Basecamp that seeks to solve the common challenges faced by product development teams, especially those caused by growing pains. &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01#growing-pains&#34;&gt;Learn more about the origins and objectives of Shape Up on the official Basecamp website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>QA? No. Quality Engineer!</title>
       <link>https://tiagodread.github.io/en/posts/quality-engineering/</link>
