@@ -1,5 +1,5 @@
 baseURL: "https://tiagodread.github.io/"
-title: Quality Engineering Logbook
+title: Quality Engineering Sovereignty
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production
-  title: Quality Engineering Logbook
-  description: ""
+  title: Quality Engineering Sovereignty
+  description: "Quality Engineering Sovereignty by Tiago Góes"
   keywords: [Blog, Portfolio, QA]
   author: by Tiago Góes
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -29,7 +29,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -51,7 +51,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Quality Engineering Logbook"
+    text: "Quality Engineering Sovereignty"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -60,7 +60,7 @@ params:
     Content: |
       I'm Tiago, Software Quality Engineer and this is my personal blog site
       >
-      - 🌱  I'm current learning more about Bitcoin
+      - 🌱 I'm currently learning more about technologies supporting freedom (Nostr, Bitcoin, Lightning)
       >
       - 💬 Ask me about Agile Testing (Web/Mobile/API), Agile Methodologies, Cypress, Selenium, Appium, Maestro, Robotframework, WebdriverIO, Applitools, Browserstack, etc.
       >
@@ -130,7 +130,7 @@ languages:
     languageName: Portuguese
     params:
       subtitle: Postagens sobre qualidade de software
-    title: Quality Engineering Logbook
+    title: Quality Engineering Sovereignty
     weight: 2
     menu:
       main:
@@ -162,7 +162,7 @@ languages:
     languageName: English
     params:
       subtitle: Posts about software quality
-    title: Quality Engineering Logbook
+    title: Quality Engineering Sovereignty
     weight: 1
     menu:
       main:

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Quality Engineering Logbook</title>
+    <title>Quality Engineering Sovereignty</title>
     <link>https://tiagodread.github.io/en/</link>
-    <description>Recent content on Quality Engineering Logbook</description>
+    <description>Recent content on Quality Engineering Sovereignty</description>
     <image>
-      <title>Quality Engineering Logbook</title>
+      <title>Quality Engineering Sovereignty</title>
       <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -29,9 +29,9 @@ In the next post, we will focus on how each step works in practice. If you are a
     </item>
     <item>
       <title>QA? No. Quality Engineer!</title>
-      <link>https://tiagodread.github.io/en/posts/quality-engineering/</link>
+      <link>https://tiagodread.github.io/en/posts/qa-no-quality-engineer/</link>
       <pubDate>Fri, 26 Apr 2024 22:02:01 -0300</pubDate>
-      <guid>https://tiagodread.github.io/en/posts/quality-engineering/</guid>
+      <guid>https://tiagodread.github.io/en/posts/qa-no-quality-engineer/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Writing about the role of QA in software development teams is crucial to understanding the evolution of the area and the importance of moving away from the old perception that QA is limited to only “testing software”. This article aims to clarify the differences between the roles of Tester, QA (Quality Assurance) and QE (Quality Engineer) and challenges faced by a QA professional within a development team.&lt;/p&gt;
 &lt;h2 id=&#34;differences-between-tester-qa-and-qe&#34;&gt;Differences between Tester, QA and QE&lt;/h2&gt;
@@ -51,8 +51,8 @@ In the next post, we will focus on how each step works in practice. If you are a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tiagodread.github.io/en/about/</guid>
       <description>&lt;p&gt;Hey!
-I couldn&amp;rsquo;t start posting about agile methodologies, software development, quality in general, testing and related topics from my day to day before introducing myself.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m Tiago Góes, or just &amp;ldquo;Góes&amp;rdquo;, Brazilian, Software Quality Engineer since 2018, before that, I worked as Software Requirements Analyst for two years, completed IT technican course (2011-2013) and degree Analisis and software development in 2016. I like practicing sports (I did Taekwondo from 9 to 19 also biking, crossfit), learn new technologies, aaaaand quality engineering.&lt;/p&gt;</description>
+I couldn&amp;rsquo;t start posting about agile methodologies, software development and qualit, testing and related topics from my day to day before introducing myself.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Tiago Góes, or just &amp;ldquo;Góes&amp;rdquo;, Brazilian, Software Quality Engineer since 2018, before that, I worked as Software Requirements Analyst for two years, completed IT technican course (2011-2013) and degree Analisis and Software Development in 2016, Certified Tester, Agile Testing Fellow. I like practicing sports (I did Taekwondo from 9 to 19) biking, gym, learn new technologies, aaaaand ship code to production aiming high quality bar and customer satisfaction.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
