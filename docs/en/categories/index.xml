@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Quality Engineering Sovereignty</title>
+    <link>https://tiagodread.github.io/en/categories/</link>
+    <description>Recent content in Categories on Quality Engineering Sovereignty</description>
+    <image>
+      <title>Quality Engineering Sovereignty</title>
+      <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Apr 2024 22:02:01 -0300</lastBuildDate>
+    <atom:link href="https://tiagodread.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quality Engineering</title>
+      <link>https://tiagodread.github.io/en/categories/quality-engineering/</link>
+      <pubDate>Fri, 26 Apr 2024 22:02:01 -0300</pubDate>
+      <guid>https://tiagodread.github.io/en/categories/quality-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Labor Market</title>
+      <link>https://tiagodread.github.io/en/categories/labor-market/</link>
+      <pubDate>Tue, 18 Jul 2023 18:09:05 -0300</pubDate>
+      <guid>https://tiagodread.github.io/en/categories/labor-market/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

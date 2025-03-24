@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Quality Engineering Sovereignty</title>
+    <link>https://tiagodread.github.io/pt/posts/</link>
+    <description>Recent content in Posts on Quality Engineering Sovereignty</description>
+    <image>
+      <title>Quality Engineering Sovereignty</title>
+      <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 09 Dec 2024 12:44:36 -0300</lastBuildDate>
+    <atom:link href="https://tiagodread.github.io/pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A metodologia Shape Up da Basecamp</title>
+      <link>https://tiagodread.github.io/pt/posts/the-shape-up-methodology-by-basecamp/</link>
+      <pubDate>Mon, 09 Dec 2024 12:44:36 -0300</pubDate>
+      <guid>https://tiagodread.github.io/pt/posts/the-shape-up-methodology-by-basecamp/</guid>
+      <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Esse post faz parte de uma série de posts sobre a metodologia Shape Up da Basecamp. Nesse post, vamos falar sobre o que é Shape Up e apresentar um panorama geral do processo. No próximo post, vamos focar em como cada etapa funciona na prática. Se você é desenvolvedor, gerente de produto ou parte de um time de tecnologia, essa série é para você!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;
+&lt;p&gt;De forma geral, &lt;em&gt;Shape Up&lt;/em&gt; é um framework criado pela Basecamp que busca resolver os desafios comuns enfrentados por times de desenvolvimento de produto, especialmente aqueles causados pelas dores do crescimento. &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01#growing-pains&#34;&gt;Saiba mais sobre as origens e objetivos do Shape Up no site oficial da Basecamp&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QA? Não. Engenheiros de Qualidade!</title>
+      <link>https://tiagodread.github.io/pt/posts/qa-no-quality-engineer/</link>
+      <pubDate>Fri, 26 Apr 2024 22:02:01 -0300</pubDate>
+      <guid>https://tiagodread.github.io/pt/posts/qa-no-quality-engineer/</guid>
+      <description>&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;
+&lt;p&gt;Escrever sobre o papel do QA nos times de desenvolvimento de software é crucial para entender a evolução da área e a importância de se distanciar da antiga percepção de que o QA se limita a “testar software”. Este artigo visa esclarecer as diferenças entre os papéis de Tester, QA (Quality Assurance) e QE (Quality Engineer) e os desafios enfrentados por um profissional de QA dentro de um time de desenvolvimento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre a falácia da diversidade e pluralidade de pensamento no mercado de trabalho</title>
+      <link>https://tiagodread.github.io/pt/posts/on-the-fallacy-of-diversity-and-plurality/</link>
+      <pubDate>Tue, 18 Jul 2023 18:09:05 -0300</pubDate>
+      <guid>https://tiagodread.github.io/pt/posts/on-the-fallacy-of-diversity-and-plurality/</guid>
+      <description>&lt;p&gt;Muito se fala sobre diversidade, pluralismo de pensamento dentro das empresas e na sociedade no geral e não é novidade que isso não é algo “a mais”, e sim, essencial para nós como indivíduos crescermos e evoluirmos como seres humanos.&lt;/p&gt;
+&lt;p&gt;Com tanta falácia dentro do mercado de trabalho acerca da importância sobre o tema, venho chamar atenção sobre o processo de entrevistas das empresas no geral, como pensar em diversidade e pluralismo se as portas estão fechadas logo no processo de contratação?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
