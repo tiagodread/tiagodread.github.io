@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tiagodread.github.io/en/</loc>
-    <lastmod>2024-12-09T12:44:36-03:00</lastmod>
+    <lastmod>2025-03-27T11:26:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -15,8 +15,34 @@
                 href="https://tiagodread.github.io/en/"
                 />
   </url><url>
+    <loc>https://tiagodread.github.io/en/posts/bug-bash/</loc>
+    <lastmod>2025-03-27T11:26:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://tiagodread.github.io/pt/posts/bug-bash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://tiagodread.github.io/en/posts/bug-bash/"
+                />
+  </url><url>
+    <loc>https://tiagodread.github.io/en/categories/</loc>
+    <lastmod>2025-03-27T11:26:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://tiagodread.github.io/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://tiagodread.github.io/en/categories/"
+                />
+  </url><url>
     <loc>https://tiagodread.github.io/en/posts/</loc>
-    <lastmod>2024-12-09T12:44:36-03:00</lastmod>
+    <lastmod>2025-03-27T11:26:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -26,6 +52,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://tiagodread.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://tiagodread.github.io/en/categories/quality-engineering/</loc>
+    <lastmod>2025-03-27T11:26:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://tiagodread.github.io/pt/categories/quality-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://tiagodread.github.io/en/categories/quality-engineering/"
                 />
   </url><url>
     <loc>https://tiagodread.github.io/en/posts/the-shape-up-methodology-by-basecamp/</loc>
@@ -41,19 +80,6 @@
                 href="https://tiagodread.github.io/en/posts/the-shape-up-methodology-by-basecamp/"
                 />
   </url><url>
-    <loc>https://tiagodread.github.io/en/categories/</loc>
-    <lastmod>2024-04-26T22:02:01-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://tiagodread.github.io/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://tiagodread.github.io/en/categories/"
-                />
-  </url><url>
     <loc>https://tiagodread.github.io/en/posts/qa-no-quality-engineer/</loc>
     <lastmod>2024-04-26T22:02:01-03:00</lastmod>
     <xhtml:link
@@ -65,19 +91,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://tiagodread.github.io/en/posts/qa-no-quality-engineer/"
-                />
-  </url><url>
-    <loc>https://tiagodread.github.io/en/categories/quality-engineering/</loc>
-    <lastmod>2024-04-26T22:02:01-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://tiagodread.github.io/pt/categories/quality-engineering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://tiagodread.github.io/en/categories/quality-engineering/"
                 />
   </url><url>
     <loc>https://tiagodread.github.io/en/categories/labor-market/</loc>
