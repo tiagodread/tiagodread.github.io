@@ -59,7 +59,7 @@ params:
     Content: |
       I'm Tiago, Software Quality Engineer and this is my personal blog site
       >
-      - 🌱 I'm currently learning more about technologies supporting freedom
+      - 🌱 I'm currently learning more about technologies supporting freedom tech
       >
       - 💬 Ask me about Agile Testing (Web/Mobile/API), Agile Methodologies, Cypress, Selenium, Appium, Maestro, Robotframework, WebdriverIO, Applitools, Browserstack, etc.
       >
@@ -68,8 +68,6 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/tiagogs/"
-    - name: twitter
-      url: "https://twitter.com/tiagogoes_"
     - name: email
       url: "mailto:tiago.goes2009@gmail.com"
     - name: github

@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Labor Market on Quality Engineering Sovereignty</title>
     <link>https://tiagodread.github.io/en/categories/labor-market/</link>
     <description>Recent content in Labor Market on Quality Engineering Sovereignty</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Quality Engineering Sovereignty</title>
+      <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 18 Jul 2023 18:09:05 -0300</lastBuildDate>
     <atom:link href="https://tiagodread.github.io/en/categories/labor-market/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/</link>
       <pubDate>Tue, 18 Jul 2023 18:09:05 -0300</pubDate>
       <guid>https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/</guid>
-      <description>&lt;p&gt;Much is said about diversity and inclusion nowdays; this is not a subject to be considered &amp;ldquo;a plus&amp;rdquo; within companies and in society in general, but rather essential for us as individuals to grow as human beings.&lt;/p&gt;&#xA;&lt;p&gt;With all the discussion on the labor market about the importance of the theme, I came to draw attention to the hiring process of companies. So, how can we think of diversity and pluralism if the &amp;ldquo;doors are closed&amp;rdquo; even in the hiring process? In other words, the process itself is &lt;strong&gt;not inclusive&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Much is said about diversity and inclusion nowdays; this is not a subject to be considered &amp;ldquo;a plus&amp;rdquo; within companies and in society in general, but rather essential for us as individuals to grow as human beings.&lt;/p&gt;
+&lt;p&gt;With all the discussion on the labor market about the importance of the theme, I came to draw attention to the hiring process of companies. So, how can we think of diversity and pluralism if the &amp;ldquo;doors are closed&amp;rdquo; even in the hiring process? In other words, the process itself is &lt;strong&gt;not inclusive&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

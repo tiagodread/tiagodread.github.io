@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Quality Engineering Sovereignty</title>
     <link>https://tiagodread.github.io/en/posts/</link>
     <description>Recent content in Posts on Quality Engineering Sovereignty</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Quality Engineering Sovereignty</title>
+      <url>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tiagodread.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 27 Mar 2025 11:26:23 -0300</lastBuildDate>
     <atom:link href="https://tiagodread.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -20,21 +25,31 @@
       <link>https://tiagodread.github.io/en/posts/the-shape-up-methodology-by-basecamp/</link>
       <pubDate>Mon, 09 Dec 2024 12:44:36 -0300</pubDate>
       <guid>https://tiagodread.github.io/en/posts/the-shape-up-methodology-by-basecamp/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This post is part of a serie of posts about the Basecamp&amp;rsquo;s Shape Up methodology. In this post, we will talk about what Shape Up is and present an overview of the process.&#xA;In the next post, we will focus on how each step works in practice. If you are a developer, product manager, or part of a technology team, this series is for you!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In general, &lt;em&gt;Shape Up&lt;/em&gt; is a framework created by Basecamp that seeks to solve the common challenges faced by product development teams, especially those caused by growing pains. &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01#growing-pains&#34;&gt;Learn more about the origins and objectives of Shape Up on the official Basecamp website&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This post is part of a serie of posts about the Basecamp&amp;rsquo;s Shape Up methodology. In this post, we will talk about what Shape Up is and present an overview of the process.
+In the next post, we will focus on how each step works in practice. If you are a developer, product manager, or part of a technology team, this series is for you!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In general, &lt;em&gt;Shape Up&lt;/em&gt; is a framework created by Basecamp that seeks to solve the common challenges faced by product development teams, especially those caused by growing pains. &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01#growing-pains&#34;&gt;Learn more about the origins and objectives of Shape Up on the official Basecamp website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>QA? No. Quality Engineer!</title>
       <link>https://tiagodread.github.io/en/posts/qa-no-quality-engineer/</link>
       <pubDate>Fri, 26 Apr 2024 22:02:01 -0300</pubDate>
       <guid>https://tiagodread.github.io/en/posts/qa-no-quality-engineer/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Writing about the role of QA in software development teams is crucial to understanding the evolution of the area and the importance of moving away from the old perception that QA is limited to only “testing software”. This article aims to clarify the differences between the roles of Tester, QA (Quality Assurance) and QE (Quality Engineer) and challenges faced by a QA professional within a development team.&lt;/p&gt;&#xA;&lt;h2 id=&#34;differences-between-tester-qa-and-qe&#34;&gt;Differences between Tester, QA and QE&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tester&lt;/strong&gt; is the more traditional and general used term and is more directly associated with performing manual tests. This function focuses on identifying bugs or defects in software, often operating at the end of the development cycle. The tester checks the product&amp;rsquo;s compliance with the established requirements, but his performance is generally reactive — he acts after the product or functionality has already been developed.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Writing about the role of QA in software development teams is crucial to understanding the evolution of the area and the importance of moving away from the old perception that QA is limited to only “testing software”. This article aims to clarify the differences between the roles of Tester, QA (Quality Assurance) and QE (Quality Engineer) and challenges faced by a QA professional within a development team.&lt;/p&gt;
+&lt;h2 id=&#34;differences-between-tester-qa-and-qe&#34;&gt;Differences between Tester, QA and QE&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tester&lt;/strong&gt; is the more traditional and general used term and is more directly associated with performing manual tests. This function focuses on identifying bugs or defects in software, often operating at the end of the development cycle. The tester checks the product&amp;rsquo;s compliance with the established requirements, but his performance is generally reactive — he acts after the product or functionality has already been developed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On the fallacy of diversity and plurality of thought in the labor market</title>
       <link>https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/</link>
       <pubDate>Tue, 18 Jul 2023 18:09:05 -0300</pubDate>
       <guid>https://tiagodread.github.io/en/posts/on-the-fallacy-of-diversity-and-plurality/</guid>
-      <description>&lt;p&gt;Much is said about diversity and inclusion nowdays; this is not a subject to be considered &amp;ldquo;a plus&amp;rdquo; within companies and in society in general, but rather essential for us as individuals to grow as human beings.&lt;/p&gt;&#xA;&lt;p&gt;With all the discussion on the labor market about the importance of the theme, I came to draw attention to the hiring process of companies. So, how can we think of diversity and pluralism if the &amp;ldquo;doors are closed&amp;rdquo; even in the hiring process? In other words, the process itself is &lt;strong&gt;not inclusive&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Much is said about diversity and inclusion nowdays; this is not a subject to be considered &amp;ldquo;a plus&amp;rdquo; within companies and in society in general, but rather essential for us as individuals to grow as human beings.&lt;/p&gt;
+&lt;p&gt;With all the discussion on the labor market about the importance of the theme, I came to draw attention to the hiring process of companies. So, how can we think of diversity and pluralism if the &amp;ldquo;doors are closed&amp;rdquo; even in the hiring process? In other words, the process itself is &lt;strong&gt;not inclusive&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
